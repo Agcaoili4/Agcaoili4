@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=Agcaoili4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Agcaoili4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Agcaoili4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-## 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/Agcaoili4/Agcaoili4/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
