@@ -11,7 +11,19 @@
 ![](https://github-readme-stats.shion.dev/api?username=Agcaoili4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Agcaoili4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Agcaoili4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![snake gif](https://raw.githubusercontent.com/Agcaoili4/Agcaoili4/output/github-contribution-grid-snake.svg)
+<picture>
+  <!-- 🌙 Dark Mode -->
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/Agcaoili4/Agcaoili4/output/snake-dark.svg">
+
+  <!-- ☀️ Light Mode (Neon fallback) -->
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/Agcaoili4/Agcaoili4/output/snake-neon.svg">
+
+  <!-- Fallback (default) -->
+  <img alt="github contribution snake" 
+       src="https://raw.githubusercontent.com/Agcaoili4/Agcaoili4/output/snake-neon.svg">
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Agcaoili4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
