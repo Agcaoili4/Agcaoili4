@@ -17,7 +17,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Agcaoili4
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-neon.svg?color_snake=#00f0ff&color_dots=#0d1117,#003f5c,#2f4b7c,#665191,#a05195
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
